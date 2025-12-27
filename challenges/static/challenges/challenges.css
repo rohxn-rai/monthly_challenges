@@ -9,7 +9,8 @@ ul {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  height: 30rem;
+  height: auto;
+  max-height: 29.2rem;
   background-color: #eeeeee;
 }
 
